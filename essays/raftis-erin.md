@@ -1,0 +1,42 @@
+---
+title: Section 203 protects its users as much as it does the corporations
+lname: Raftis
+fname: Erin
+email: raftise@mcmaster.ca
+web: erinraftis.net
+image-description: handshake over digital technologies 
+bio: Erin Raftis is a thrid year undergraduate at Mcmaster University in the Multimedia and Communications program. She is an active member of the arts community in many capacities. In her spare time, Rafits is involved in her local theatre guild, both behind the scenes and onstage, and works to build her practical art skills as well. Currently, she focucessed on creating digital watercolours, but she also enjoys more traditional mediums, such as acrylic paintings. Raftis is interested in pursuing a career in which she can use these skills to her advantage. 
+---
+
+# Section 203 protects its users as much as it does the corporations
+
+Who is responsible for what’s said on the internet? Laws are now trying to determine whether the platform can be held accountable for what users say using their forum. There has been much discussion lately over the morality of this situation, and whether or not these companies should really be exempt. While social media can be used for many great things, such as gathering people and starting social movements, it also has the capacity to facilitate bullying, harm, foster radicalized thinking, and much more. Yet, despite the potential for harm, trusting large corporations, such as Facebook and Twitter, to decide what should and should not be voiced on the internet, is not the solution to devastations the internet may cause.
+
+Section 203 of the Communications Decency Act brings into question how much control “interactive computer services” should have over the freedom of speech on the internet. The legislation was created to ensure that “no provider or user of an interactive computer service shall be treated as the publisher or speaker of any information by another information content provider” (“47 U.S. Code”, n.d.). Basically, social media platforms, such as Facebook and Twitter, cannot be held accountable for what their users post.
+
+Already these large companies are going to great lengths to personalize users’ experience on their platforms, and are not afraid to go to the extreme to do so. It’s almost impossible to argue that your phone isn’t listening to your every word when an advertisement for Kraft Dinner appears on your Instagram feed just after you were talking about making lunch. And so if the algorithms can do this, why shouldn’t they take it the extra mile and use this power to reduce negativity online?
+
+For starters, social networking platforms are already teeming with employees working to eliminate any content that is not in accordance to their community standards, which Facebook states could be anything from violent and criminal behavior to breeches in intellectual property, to objectionable content (“Community Standards”, n.d.). The company is already protecting us from the worst of the information. But if the public demands they take more control over our content, where is the line?
+
+As of now, these platforms already take down clearly offensive content. But the more responsibility they take on, the more likely these sites will begin to remove content that they personally disagree with. The public needs the chance to critique the platforms themselves, but if their Community Standards become more general, anything negatively stated about the platform will likely get removed.
+
+Moreover, if these companies take on more responsibility, there is more a chance they will get sued. This would likely result in harsh strike-down of any controversial topics that the platforms may not want to take a stance on, or to appease one side or the other. In fact, this could lead to information being controlled by those who are the greatest assets to the company, where content that is published that follows the same perspectives of these take precedence over other posts. In the end, the information released could easily turn into only the thoughts of those who give Facebook the most money.
+
+As soon as these companies favour only the most powerful and wealthy, the voice of the public will be lost. In the most recent decade, social media has been vital to communication within the public sphere. Gone are the days of the bourgeois discussing literature at coffee houses. We now use the internet to communicate with others. Yes, this can lead to those with radical thoughts merging together. It is often argued that social media algorithms commitment to delivering content it thinks you might be interested in, puts people in a bubble where they only receive similar information, reinforcing their own opinions. However, holding Facebook, Twitter, and the like responsible for their posts will only worsen this problem. While it would force them to remove any dangerous content that may lead to the radical, it would also make it even easier to encapsulate people in one bubble of information. But this time, it will be only the information these companies value.
+
+Section 203 is vital to public discussion and people’s abilities to speak freely. Just as people should be able to voice their opinions on important matters in a physical space, they should be able to do so virtually as well. The more control these platforms have, the less space the people have for public discussion, which has been so important to many movements worldwide.
+
+Take the Arab Spring for example. As Blake Hounsell emphasises in his article entitled “The Revolution will be Tweeted”, “Twitter has become an essential…tool for following and understanding momentous changes sweeping the Arab region” that allowed a country suppressed under controlling dictatorship to congregate and find freedom (2011). Since then, Twitter has brought powerful movements into the spotlight and ultimately benefited society, whether it be the #Metoo movement or #FreeManal. If we were to hand over our place of public discussion to these corporate platforms, then it is hard to say if these movements would have ever been possible.
+
+While holding platforms accountable for users’ content may appear as the most effective way to eliminate hate speech and the like on the internet, this choice comes with too many sacrifices. We shouldn’t compromise such a key system for democratic discussion that these sites are used for. However, this doesn’t mean that this kind of behavior should be normalized. There should be a responsibility, just as anyone should feel this social obligation, to stop injustices when they occur. These platforms should be ready to recognize any dangerous behaviour and stop it in its tracks; however, that doesn’t mean they should be legally required to do so, and create a chain effect of restrictions on what people can post. More needs to be done to regulate internet content by us, the users. We shouldn’t want to share this place of public discussion, with unhelpful, counter-productive, aggressive thoughts. Instead, we should be fostering a place where people can go to share and feel welcomed.
+
+As social media becomes more and more integrated into the everyday lives of people and the importance of it to our social and political systems increases, there needs to be more education and awareness among everyone who uses it. As Poni Alice JameKolok, journalist at UNESCO indicates, “education on media ethics should focus on the rights and freedoms of journalists and their role in creating and promoting peaceful societies” (2016). Just as we are taught right from wrong growing up, we need to share the proper approaches to internet etiquette and take responsibility for the things we post and understand the consequences that each individual has on the world.
+  
+
+
+## References
+47 U.S. Code § 230 - Protection for private blocking and screening of offensive material. (n.d.). Retrieved from https://www.law.cornell.edu/uscode/text/47/230.
+Altmann, G. (2017). [image] Available at: https://pixabay.com/photos/block-chain-handshake-shaking-hands-2853046/ [Accessed 3 Oct. 2019].
+Community Standards. (n.d.). Retrieved from https://www.facebook.com/communitystandards/.
+JameKolok, P. A. (2016, April 29). 5 ways to counter hate speech in the Media through Ethics and     Self-regulation. Retrieved from https://en.unesco.org/5-ways-to-counter-hate-speech.
+Hounshell, B. (2011, June 20). The Revolution Will Be Tweeted. Retrieved from https://foreignpolicy.com/2011/06/20/the-revolution-will-be-tweeted/

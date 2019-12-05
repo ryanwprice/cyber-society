@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  {% include head-home.html %}
+  <body id="home">
+    {% include header.html %}
+    <div class="wrapper">
+    	<div id="feature-image">
+    	<!-- image loads here -->
+      	</div>
+      <section class="content">
+        <h1 id="feature-title">{{ page.title }}</h1>
+
+    	<!-- preface -->
+    	<section>
+    		<h2 class="preface">Preface</h2>
+    		{% for node in site.pages %} 
+			    {% if node.url != '/' and node.category == "preface" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="preface">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+
+    	<!-- Art -->
+    	<section>
+    		<h2 class="art">Art</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "art" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="art">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Colour -->
+    	<section>
+    		<h2 class="colour">Colour</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "colour" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="colour">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Elements -->
+    	<section>
+    		<h2 class="elements">Elements</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "elements" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="elements">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Future -->
+    	<section>
+    		<h2 class="future">Future</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "future" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="future">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Grid -->
+    	<section>
+    		<h2 class="grid">Grid</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "grid" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="grid">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Icon -->
+    	<section>
+    		<h2 class="icon">Icon</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "icon" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="icon">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Image -->
+    	<section>
+    		<h2 class="image">Image</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "image" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="image">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Remix -->
+    	<section>
+    		<h2 class="remix">Remix</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "remix" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="remix">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- style -->
+    	<section>
+    		<h2 class="style">Style</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "style" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="style">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	<!-- Type -->
+    	<section>
+    		<h2 class="type">Type</h2>
+    		{% for node in site.essays %} 
+			    {% if node.url != '/' and node.category == "type" %}
+			    	<a class="listing" href="{{ site.github.url }}{{ node.url }}">
+				    	<h3 class="type">{{ node.title }}</h3>
+				      	<h4>by {{node.fname}} {{node.lname}}</h4>
+			      	</a>
+			    {% endif %}
+		   {% endfor %}
+    	</section>
+    	{% include footer.html %}
+    	</section>
+    </div>
+  </body>
+
+</html>

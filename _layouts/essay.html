@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  {% include categories.html %}
+    {% include header.html %}
+    <div class="wrapper">
+      <img class="feature-image" src="{{ site.github.url }}/img/{{ page.lname | slugify }}-{{ page.fname | slugify }}.jpg" alt="{{ page.image-description }}" title="{{ page.image-description }}"  />
+      <section class="content">
+        <h1>{{ page.title }}</h1>
+        <article class="essay">
+          {{ content }}
+          <footer>
+            {% include rights.html %}
+          </footer>
+        </article>
+         <aside class="author">
+          <h3>About {{ page.fname }} {{ page.lname }}</h3>
+          <p>{% if page.bio %}{{ page.bio }}{% endif %}</p>
+          <img src="{{ site.github.url }}/img/{{ page.lname | slugify }}-{{ page.fname | slugify }}-headshot.jpg" alt="{{ page.fname }} {{ page.lname }}" />
+          <h4>Contact the Author</h4>
+          <p>
+            {% if page.email %}
+              <span>Email:</span> <a href="mailto:{{ page.email }}">{{ page.email }}</a><br />
+            {% endif %}
+            {% if page.web %}
+              <span>Website:</span> <a href="http://{{ page.web }}">{{ page.web }}</a>
+            {% endif %}
+          </p>
+        </aside>
+        {% include footer.html %}
+      </section>
+
+    </div>
+  <div class="button"></div> 
+  </body>
+
+</html>

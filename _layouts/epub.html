@@ -1,0 +1,91 @@
+<html>
+<head>
+	<title>Design Issues</title>
+</head>
+<body>
+<!-- preface -->
+<h1>Preface: {{ page.title }}</h1>
+<cite>by {{page.fname}} {{page.lname}}</cite>
+{{ page.content }}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "art" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "colour" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "elements" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "future" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "grid" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "icon" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "image" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "remix" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "style" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+
+{% for node in site.essays %} 
+    {% if node.url != '/' and node.category == "type" %}
+		<h1>{{ node.title }}</h1>
+	  	<cite>by {{node.fname}} {{node.lname}}</cite>
+	  	{{ node.content }}
+    {% endif %}
+{% endfor %}
+</body>
+</html>
