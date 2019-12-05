@@ -198,6 +198,7 @@ main#home {
             	
         }	
         	
+/*
         @media only screen and (max-width: 600px) {	
             	
             aside {	
@@ -205,6 +206,7 @@ main#home {
             }	
             	
         }	
+*/
         	
         aside ol {	
             list-style-type: none;	
